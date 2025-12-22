@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Status-Research_Active-002244)
+![Institute](https://img.shields.io/badge/Institute-Foresight_88-gold)
+> **Quantitative / Behavioral / Macro-Structural**
+
+---
+
 # GHDP Framework (Gross Human Dynamics Product)
 
 **Version:** 1.0.0 (Core Definition)  
@@ -40,3 +46,13 @@ Where:
 ### Citation
 If you use this framework in your research, please cite as:
 > Wong, E. (2025). *The GHDP Framework: Measuring Temporal Friction*. Foresight 88 Institute.
+>
+> ---
+## 🔗 Ecosystem & Documentation
+> **Full theoretical breakdown available on our Wiki.**
+
+* 📖 **[Read the Full Documentation (Wiki)](https://github.com/Foresight-88-Institute/GHDP-Framework-Core/wiki)**
+* 🏛️ **[Official Portal (Carrd)](https://foresight88-institute.carrd.co)**
+* 👤 **Research Lead:** [@EuniceWong](https://github.com/EuniceWong)
+
+*© 2025 Foresight 88 Institute.*
