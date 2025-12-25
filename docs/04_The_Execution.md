@@ -843,3 +843,100 @@ It solely enhances:
 
 > **GDP determines how fast a nation can run.**
 > **GHDP determines how long a nation can survive.**
+
+---
+
+# Appendix E: Tempo Dashboard Prototype (The Six-Layer Framework)
+**A Six-Layer Visualization Framework for National Rhythm Intelligence and GHDP Monitoring**
+
+> **Purpose:** To serve as the UI/UX Blueprint for GovTech, the Cabinet Briefing Room, and the PMO.
+> **Core Concept:** A "Civilizational MRI" that makes the invisible visible.
+
+The Tempo Dashboard is not decorative; it is functional. Each layer represents a vital signal of civilization.
+
+## Layer 1: The Great Divergence (GHDP vs. GDP)
+**Goal:** Instant visualization of "External Prosperity" vs. "Internal Resilience."
+
+* **Visuals:**
+    * **Left Axis:** GDP Growth Curve (Rising ↗).
+    * **Right Axis:** GHDP Curve (Falling ↘).
+    * **Key Feature:** The diverging area between the two lines is shaded **Red**, labeled **"Civilizational Fatigue Zone."**
+    * **Data Point:** The 2024 marker hits **0.287** (Cognitive Blackout Line).
+* **Insight:** "We are getting richer, but we are running out of battery."
+
+## Layer 2: TSI Map (Time Sovereignty Heatmap)
+**Goal:** To show where the nation is "Time-Poor."
+
+* **Visuals:**
+    * **Geographic Heatmap:** Singapore divided by North/East/Central/West.
+    * **Red Zones:** Areas with high fragmentation, high push density, and low autonomy (likely CBD and high-pressure school districts).
+    * **Green Zones:** Areas with natural rhythm retention.
+* **Insight:** High-income zones often correlate with the lowest Time Sovereignty.
+
+## Layer 3: CBR Depth Grid (Cognitive Bandwidth)
+**Goal:** To show if the society can still "Think Deeply."
+
+* **Visuals:**
+    * **9x9 Grid (Bloomberg Style):** Segmented by Industry (Finance, Tech, Edu) and Age.
+    * **Color Scale:** Deep Blue (High Focus) to Deep Red (Cognitive Fracture).
+* **Insight:**
+    * Finance/Tech sectors show the lowest CBR (High distraction).
+    * Youth demographic shows "Attention Collapse" due to social media algorithmic load.
+
+## Layer 4: PRA Recovery Curve (Physiological Rhythm)
+**Goal:** To track the nation's "Recovery Capacity."
+
+* **Visuals:** Three Trend Lines derived from anonymous ZKTP proxies.
+    1.  Sleep Quality Index.
+    2.  HRV Stability.
+    3.  Stress Load Index.
+    * **Background:** Shaded area indicating the **"Recovery Deficit Zone."**
+* **Insight:** Healthcare workers' PRA is consistently 18–25% lower than the national average—a predictor of systemic burnout.
+
+## Layer 5: RDV Social Depth Map (Relational Depth)
+**Goal:** To measure if the society is becoming "Lonely."
+
+* **Visuals:** A Radial Map with three concentric rings.
+    * **Inner Ring:** Family Depth.
+    * **Middle Ring:** Friendship/Weak Ties.
+    * **Outer Ring:** Community Trust.
+* **Insight:** Family Rhythm shows a sharp decline post-2020. Loneliness Index rises inversely to digital connectivity.
+
+## Layer 6: Tempo Gap Indicator (Tech Velocity vs. Human Rhythm)
+**Goal:** To visualize the root cause of fatigue.
+
+* **Visuals:**
+    * **Top Line:** Tech Velocity Index (AI speed, Push volume, Automation rate).
+    * **Bottom Line:** Human Rhythm Index (Biological limit).
+    * **The Gap:** The distance between lines represents **"Acceleration Stress."**
+* **Insight:** As the gap widens, GHDP falls. This justifies the need for "Tempo Deceleration" policies.
+
+---
+
+## The Composite Overlay (The PMO View)
+**Goal:** To see the entire civilization on one screen.
+
+When all six layers are overlayed, it functions as a **National MRI Scan**.
+The Prime Minister can instantly see:
+* **Where is the fatigue?** (Sector/Region)
+* **Where is the pressure?** (Tech/Work)
+* **Where is the resilience?** (Family/Community)
+* **Is the nation in the "Blackout Zone"?**
+
+## Implementation Notes for GovTech
+1.  **Framework:** Build on Bloomberg Graphene or existing GovTech UI libraries.
+2.  **Privacy:** Must support **ZKTP** inputs (No PII display).
+3.  **Hardware:** Optimized for large-format touchscreens in the Cabinet Room.
+4.  **Alerts:** Automated "Tempo Stress Alerts" when indicators cross the 0.30 threshold.
+
+## Final Vision
+**Tempo Dashboard makes civilization "Visible."**
+
+* **GDP** measures the Economy.
+* **GHDP** measures the Civilization.
+
+This dashboard is not just a tool; it is a mirror.
+It allows the nation to stop flying blind and start navigating with:
+* **Rhythm.**
+* **Depth.**
+* **Clarity.**
