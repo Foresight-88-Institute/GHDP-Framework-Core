@@ -11,14 +11,13 @@ We simulate civilizational resilience under three scenarios:
 3.  **Climate Shock:** Resource scarcity combined with tempo collapse.
 
 ### ASCII Visualization: Stress Curve
-```text
+text
       |          / (Collapse Threshold)
 Stress|         /
 Level |        /
       |       /
       |______/____________________
             System Velocity (A_t)
-
 
 
 
