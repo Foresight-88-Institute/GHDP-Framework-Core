@@ -19,15 +19,15 @@ Level |        /
       |______/____________________
             System Velocity (A_t)
 
----
 
 # Part V: Evidence & Resilience — The Stress Test
 
 > **Target Audience:** Prime Minister's Office, Strategic Futures Group, Economic Development Board.
 > **Core Argument:** Theory is debatable; Data is not. The 0.287 Case Study proves the invisible decline.
 
+---
 
-## Chapter 22: SG Simulation (The 0.287 Case Study)
+# Chapter 22: SG Simulation (The 0.287 Case Study)
 **A 10-Year Historical Backtest of Singapore’s Civilizational Rhythm Collapse (2015–2025)**
 
 This chapter reveals the most critical finding since the inception of GHDP:
