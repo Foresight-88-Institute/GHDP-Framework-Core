@@ -10,7 +10,7 @@ We simulate civilizational resilience under three scenarios:
 2.  **AI Bubble:** Rapid acceleration of labor demands.
 3.  **Climate Shock:** Resource scarcity combined with tempo collapse.
 
-### ASCII Visualization: Stress Curve
+ASCII Visualization: Stress Curve
 ```text
       |          / (Collapse Threshold)
 Stress|         /
@@ -19,7 +19,7 @@ Level |        /
       |______/____________________
             System Velocity (A_t)
 
-
+---
 
 # Part V: Evidence & Resilience — The Stress Test
 
