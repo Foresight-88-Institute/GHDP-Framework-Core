@@ -10,7 +10,7 @@ We simulate civilizational resilience under three scenarios:
 2.  **AI Bubble:** Rapid acceleration of labor demands.
 3.  **Climate Shock:** Resource scarcity combined with tempo collapse.
 
-ASCII Visualization: Stress Curve
+### ASCII Visualization: Stress Curve
 ```text
       |          / (Collapse Threshold)
 Stress|         /
@@ -27,7 +27,7 @@ Level |        /
 > **Core Argument:** Theory is debatable; Data is not. The 0.287 Case Study proves the invisible decline.
 
 
-# Chapter 22: SG Simulation (The 0.287 Case Study)
+## Chapter 22: SG Simulation (The 0.287 Case Study)
 **A 10-Year Historical Backtest of Singapore’s Civilizational Rhythm Collapse (2015–2025)**
 
 This chapter reveals the most critical finding since the inception of GHDP:
