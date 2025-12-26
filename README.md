@@ -56,3 +56,8 @@ If you use this framework in your research, please cite as:
 * 👤 **Research Lead:** [@EuniceWong](https://github.com/EuniceWong)
 
 *© 2025 Foresight 88 Institute.*
+
+---
+## License
+This project is licensed under the [CC BY-NC-ND 4.0](LICENSE) - Foresight 88 Institute.
+
