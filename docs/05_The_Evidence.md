@@ -59,6 +59,7 @@ Based on the aggregated Proxy Data, Singapore's Civilizational Depth trajectory 
 
 **Verdict:** Singapore's GHDP has collapsed by over **43%** in a decade.
 
+
 ## 22.3 The Great Divergence
 **GDP $\uparrow$ vs. GHDP $\downarrow$**
 Traditional economics interprets the last decade as a success (Growth).
