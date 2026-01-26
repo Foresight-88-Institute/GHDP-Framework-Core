@@ -45,7 +45,7 @@ Where:
 
 ### Citation
 If you use this framework in your research, please cite as:
-> Wong, E. (2025). The GHDP Framework: Measuring Temporal Friction (v1.0).*. Foresight 88 Institute.
+> Wong, E. (2025). The GHDP Framework: Measuring Temporal Friction (v1.0)*. Foresight 88 Institute.
 >
 > ---
 ## 🔗 Ecosystem & Documentation
