@@ -61,3 +61,5 @@ If you use this framework in your research, please cite as:
 ## License
 This project is licensed under the [CC BY-NC-ND 4.0](LICENSE) - Foresight 88 Institute.
 
+This framework is developed as part of an independent research initiative and is intended for academic, policy, and institutional research use.
+
